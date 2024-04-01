@@ -1,0 +1,11 @@
+### node_modules ###
+node_modules/
+
+### VSCode ###
+.vscode/
+
+### package-lock ###
+package-lock.json
+
+### secure config file ###
+config.json

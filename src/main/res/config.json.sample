@@ -1,0 +1,16 @@
+// this is an sample code of config.json.
+// Please replace example texts and comments and rename to "config.json".
+{
+    "token" : "",
+    "bot-client-id" : "",
+    "test-guild": [
+        ""
+    ],
+    "MySQL" : {
+        "address": "",
+        "port": 0,
+        "user": "",
+        "password": "",
+        "table": ""
+    }
+}

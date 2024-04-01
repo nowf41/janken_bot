@@ -1,0 +1,19 @@
+{
+  "name": "janken_bot",
+  "version": "1.0.0",
+  "description": "A discord bot based Discord.js what provides Janken feature",
+  "main": "src/main/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node src/main/js/deploy.js restricted",
+    "deploy_global": "node src/main/js/deploy.js global"
+  },
+  "author": "nowf41",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
